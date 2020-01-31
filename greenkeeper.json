@@ -1,0 +1,16 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "package.json",
+        "templates/boilerplate/package.json",
+        "templates/demo/package.json",
+        "templates/simple/package.json",
+        "test_apps/contracts_app/package.json",
+        "test_apps/coverage_app/package.json",
+        "test_apps/test_app/extensions/embark-service/package.json",
+        "test_apps/test_app/package.json"
+      ]
+    }
+  }
+}
