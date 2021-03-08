@@ -1,0 +1,6 @@
+public
+db.json
+debug.log
+!/yarn.lock
+!themes/embark/source/js/linkjuice/dist
+
